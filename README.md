@@ -8,3 +8,5 @@ leetcode算法相关的题解
 |240|搜索二维矩阵 II|SearchMatrix.java|
 |169|求众数|MajorityElement.java|
 |88|合并两个有序数组|MergeSortArray.java|
+|136|只出现一次的数字|SingleNumber.java|
+|217|存在重复元素|ContainsDuplicate.java|
