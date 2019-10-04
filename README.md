@@ -14,3 +14,4 @@ leetcode算法相关的题解
 |283|移动零|MoveZeroes.java|
 |350|两个数组的交集|Intersect.java|
 |215|数组中的第K个最大元素|Solution.java|
+|347|前K个高频元素|queue.Solution.java|
