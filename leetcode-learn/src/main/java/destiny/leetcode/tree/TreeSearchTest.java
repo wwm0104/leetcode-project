@@ -73,9 +73,9 @@ public class TreeSearchTest {
         if(root == null){
             return;
         }
-        printRootBefore(root.getLeft()); //打印左节点
+        printRootMid(root.getLeft()); //打印左节点
         System.out.println(root.getValue()); //打印root节点
-        printRootBefore(root.getRight());//打印右节点
+        printRootMid(root.getRight());//打印右节点
     }
 
     /**
@@ -86,8 +86,8 @@ public class TreeSearchTest {
         if(root == null){
             return;
         }
-        printRootBefore(root.getLeft()); //打印左节点
-        printRootBefore(root.getRight());//打印右节点
+        printRootEnd(root.getLeft()); //打印左节点
+        printRootEnd(root.getRight());//打印右节点
         System.out.println(root.getValue()); //打印root节点
     }
 
